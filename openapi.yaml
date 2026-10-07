@@ -1,0 +1,202 @@
+openapi: 3.0.3
+
+info:
+  title: OfficeMate AI API
+  version: 1.0.0
+  description: >
+    API contract for hybrid work allocation,
+    employee schedules, tasks, attendance,
+    parking and workplace resources.
+
+servers:
+  - url: https://api.example.com
+
+paths:
+
+  /employees/{employee_id}:
+
+    get:
+
+      summary: Get employee profile
+
+      parameters:
+
+        - name: employee_id
+          in: path
+          required: true
+          schema:
+            type: integer
+
+      responses:
+
+        "200":
+          description: Employee profile
+
+  /employees/{employee_id}/schedule:
+
+    get:
+
+      summary: Get employee work schedule
+
+      parameters:
+
+        - name: employee_id
+          in: path
+          required: true
+          schema:
+            type: integer
+
+      responses:
+
+        "200":
+          description: Work schedule
+
+  /employees/{employee_id}/tasks:
+
+    get:
+
+      summary: Get employee tasks
+
+      parameters:
+
+        - name: employee_id
+          in: path
+          required: true
+          schema:
+            type: integer
+
+      responses:
+
+        "200":
+          description: Employee tasks
+
+  /employees/{employee_id}/attendance:
+
+    get:
+
+      summary: Get employee attendance
+
+      parameters:
+
+        - name: employee_id
+          in: path
+          required: true
+          schema:
+            type: integer
+
+      responses:
+
+        "200":
+          description: Attendance records
+
+  /parking/availability:
+
+    get:
+
+      summary: Get parking availability
+
+      responses:
+
+        "200":
+          description: Parking availability
+
+  /cafeteria/today:
+
+    get:
+
+      summary: Get today's cafeteria slots
+
+      responses:
+
+        "200":
+          description: Cafeteria slots
+
+  /manager/tasks:
+
+    post:
+
+      summary: Create employee task
+
+      requestBody:
+
+        required: true
+
+        content:
+
+          application/json:
+
+            schema:
+
+              type: object
+
+              required:
+                - employee_id
+                - title
+
+              properties:
+
+                employee_id:
+                  type: integer
+
+                title:
+                  type: string
+
+                description:
+                  type: string
+
+                due_date:
+                  type: string
+
+      responses:
+
+        "201":
+          description: Task created
+
+  /manager/schedule:
+
+    post:
+
+      summary: Update employee work schedule
+
+      requestBody:
+
+        required: true
+
+        content:
+
+          application/json:
+
+            schema:
+
+              type: object
+
+              required:
+                - employee_id
+                - work_date
+                - work_mode
+
+              properties:
+
+                employee_id:
+                  type: integer
+
+                work_date:
+                  type: string
+
+                work_mode:
+                  type: string
+                  enum:
+                    - WFH
+                    - WFO
+                    - HYBRID
+
+                shift_start:
+                  type: string
+
+                shift_end:
+                  type: string
+
+      responses:
+
+        "200":
+          description: Schedule updated
