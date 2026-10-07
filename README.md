@@ -42,7 +42,7 @@ The main objectives of OfficeMate AI are:
 
 ## Key Features
 
-### Employee
+### Employee Webpage
 
 - Employee authentication
 - Hybrid work schedule
@@ -55,7 +55,7 @@ The main objectives of OfficeMate AI are:
 - Schedule change request
 - AI workplace assistant
 
-### Manager
+### Manager Webpage
 
 - Manager authentication
 - Team directory
