@@ -212,7 +212,7 @@ The OfficeMate AI Assistant allows authenticated users to ask workplace-related 
 
 Example questions include:
 
-```text
+```
 What is my work mode today?
 
 What are my assigned tasks?
@@ -228,5 +228,5 @@ Which employees are working from office?
 ---
 
 ### AI Assistant Output
-OfficeMate AI Chatbot <img width="1907" height="792" alt="image" src="https://github.com/user-attachments/assets/085642e0-51ed-497e-9457-980c38aaf989" />
+!image OfficeMate AI Chatbot <img width="1907" height="792" alt="image" src="https://github.com/user-attachments/assets/085642e0-51ed-497e-9457-980c38aaf989" />
 
