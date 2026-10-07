@@ -206,7 +206,7 @@ OfficeMate AI Manager Dashboard <img width="1877" height="807" alt="image" src="
 
 ---
 
-### 4. AI Assistant Output
+### 4. AI Assistant 
 
 The OfficeMate AI Assistant allows authenticated users to ask workplace-related questions using natural language.
 
@@ -225,5 +225,8 @@ Which tasks are pending for my team?
 
 Which employees are working from office?
 
+---
+
+### AI Assistant Output
 OfficeMate AI Chatbot <img width="1907" height="792" alt="image" src="https://github.com/user-attachments/assets/085642e0-51ed-497e-9457-980c38aaf989" />
 
