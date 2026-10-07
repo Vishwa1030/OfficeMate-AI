@@ -212,7 +212,6 @@ The OfficeMate AI Assistant allows authenticated users to ask workplace-related 
 
 Example questions include:
 
-```text
 What is my work mode today?
 
 What are my assigned tasks?
