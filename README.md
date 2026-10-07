@@ -156,8 +156,7 @@ The landing page highlights the main capabilities of the system:
 
 ### Landing Page Output
 
-![OfficeMate AI Landing Page](<img width="1881" height="816" alt="image" src="https://github.com/user-attachments/assets/dadc0f87-1d8e-4ba5-9628-84b10d3bc90d" />
-)
+![OfficeMate AI Landing Page](<img width="1881" height="816" alt="image" src="https://github.com/user-attachments/assets/dadc0f87-1d8e-4ba5-9628-84b10d3bc90d" />)
 
 ---
 
@@ -179,7 +178,7 @@ The dashboard is connected to application data so that employee information can 
 
 ### Employee Dashboard Output
 
-![OfficeMate AI Employee Dashboard](screenshots/employee-dashboard.png)
+![OfficeMate AI Employee Dashboard](<img width="1867" height="802" alt="image" src="https://github.com/user-attachments/assets/cc30e642-fd6f-4ada-9cfe-d9a637b41ee3" />)
 
 ---
 
@@ -202,7 +201,7 @@ Changes made by the manager are stored in the application database and can be re
 
 ### Manager Dashboard Output
 
-![OfficeMate AI Manager Dashboard](screenshots/manager-dashboard.png)
+![OfficeMate AI Manager Dashboard](<img width="1877" height="807" alt="image" src="https://github.com/user-attachments/assets/6d6e556f-2be5-4734-a07c-6506a871dbb3" />)
 
 ---
 
@@ -224,3 +223,6 @@ When is my next WFO day?
 Which tasks are pending for my team?
 
 Which employees are working from office?
+
+![OfficeMate AI Chatbot](<img width="1907" height="792" alt="image" src="https://github.com/user-attachments/assets/085642e0-51ed-497e-9457-980c38aaf989" />
+)
