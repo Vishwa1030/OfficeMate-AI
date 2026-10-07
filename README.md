@@ -156,7 +156,7 @@ The landing page highlights the main capabilities of the system:
 
 ### Landing Page Output
 
-!image <img width="1881" height="816" alt="image" src="https://github.com/user-attachments/assets/dadc0f87-1d8e-4ba5-9628-84b10d3bc90d" />
+!image[OfficeMate AI Landing Page] <img width="1881" height="816" alt="image" src="https://github.com/user-attachments/assets/dadc0f87-1d8e-4ba5-9628-84b10d3bc90d" />
 
 ---
 
