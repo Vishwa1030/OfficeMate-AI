@@ -183,7 +183,8 @@ The dashboard is connected to application data so that employee information can 
 
 OfficeMate AI Employee Dashboard 
 
-<img width="1867" height="802" alt="image" src="https://github.com/user-attachments/assets/cc30e642-fd6f-4ada-9cfe-d9a637b41ee3"/>
+<img width="1800" height="822" alt="image" src="https://github.com/user-attachments/assets/7a5e4c1f-802c-4f9a-bc97-2a0f4e8b0d99" />
+
 
 ---
 
@@ -208,7 +209,8 @@ Changes made by the manager are stored in the application database and can be re
 
 OfficeMate AI Manager Dashboard 
 
-<img width="1877" height="807" alt="image" src="https://github.com/user-attachments/assets/6d6e556f-2be5-4734-a07c-6506a871dbb3"/>
+<img width="1837" height="837" alt="image" src="https://github.com/user-attachments/assets/da277298-6655-41ff-8963-278b8aac9e31" />
+
 
 ---
 
@@ -235,4 +237,5 @@ AI Assistant Output
 
 OfficeMate AI Chatbot
 
-<img width="1907" height="792" alt="image" src="https://github.com/user-attachments/assets/085642e0-51ed-497e-9457-980c38aaf989" /> ```
+<img width="1852" height="777" alt="image" src="https://github.com/user-attachments/assets/a6aa5f0a-7504-4cd6-b38c-2f8a4443746d" />
+ ```
